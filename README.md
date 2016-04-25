@@ -1,1 +1,1 @@
-"a news yyy" 
+"a news yyy and xxx" 
